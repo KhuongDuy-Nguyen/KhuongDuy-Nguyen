@@ -25,7 +25,7 @@
 
 
 - 👀 I’m interested in Java development
-- 🌱 I’m currently learning .NET and Python
+- 🌱 I’m currently learning AI using Python
 - 😄 Fun fact: I love Codeing(💻), Traveling(🌍)
 - 📫 Contact me if you have any Junior position for Java development 
   <br>
